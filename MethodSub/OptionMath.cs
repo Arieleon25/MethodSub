@@ -11,7 +11,7 @@ namespace MethodSub
         public void Om1 (int i, int i2 = 0)
         {
             int num1 = i + 5;
-            int numOp = i2 - 2;
+            int numOp = i2;
             Console.WriteLine(num1);
             Console.WriteLine("{0}", numOp);
 
